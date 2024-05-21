@@ -4,7 +4,7 @@
 
 Operating in the digital age, businesses are increasingly reliant on technology to deliver their products and services. 
 
-By applying fundemental principles and culture of software engineering, we can build a robust and scalable technology ecosystem that can support the business in its digital transformation journey.
+By applying fundamental principles and the culture of software engineering, we can build a robust and scalable technology ecosystem that can support the business in its digital transformation journey.
 
 The following sections will provide an overview of the technology ecosystem at MDC, including the architecture, design principles, and best practices.
 
@@ -14,9 +14,9 @@ The documentation and knowledge management system is a critical component of the
 The document you're reading now is an example of the documentation and knowledge management system.
 
 ## Cloud Native Microservices Architecture
-There are many operations that can be streamlined and automated by building small and atomic services that are integrated with the exising systems of MDC.   
+Many operations can be streamlined and automated by building small and atomic services that are integrated with the existing systems of MDC.   
 
-Examples of such services may include but not limitted to the following:
+Examples of such services may include but are not limited to the following:
 
 !!! note "Example"
 	 **Notification Service**: Sends notifications to patients and doctors automatically when call center agents update the status of a patient's appointment/tests.
