@@ -22,7 +22,12 @@ nav:
     - Introduction: index.md 
     - Tech Ecosystem:
         - Introduction: tech-ecosystem/intro.md
-        - CRM: tech-ecosystem/crm.md
+        - Developers & Tech Stack: tech-ecosystem/developers.md
+        - Continuous Improvement: tech-ecosystem/continuous-improvement.md
+    - Software Systems:
+        - Website: software-systems/website.md
+        - CRM: software-systems/crm.md
+
 
 markdown_extensions:
   - attr_list
