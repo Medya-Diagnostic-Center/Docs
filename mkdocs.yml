@@ -1,0 +1,42 @@
+site_name: Digital Transformation
+use_directory_urls: false
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/images/logo.png
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - navigation.collapse
+
+extra_css:
+  - overrides/css/extra.css
+
+extra_javascript:
+  - js/recaptcha.js
+
+nav:
+    - Introduction: index.md 
+    - Tech Ecosystem:
+        - Introduction: tech-ecosystem/intro.md
+        - CRM: tech-ecosystem/crm.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - tables
+  - pymdownx.mark
+  - pymdownx.details
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
