@@ -27,6 +27,8 @@ nav:
     - Software Systems:
         - Website: software-systems/website.md
         - CRM: software-systems/crm.md
+        - Datawarehouse: software-systems/data-warehouse.md
+        - Business Intelligence (BI): software-systems/bi.md
 
 
 markdown_extensions:
