@@ -4,7 +4,8 @@ Following MDC's tech ecosystem guidelines, the website is built using the simple
 
 ## Technology Stack
 
-The website will be built using a static website generator like **Hugo Static Site Generator** or **MkDocs**. The website is hosted on GitHub pages and utilizes **cloudflare** for DNS and CDN.
+The website will be built using a static website generator like **Hugo Static Site Generator** or **MkDocs**. It will be hosted on GitHub Pages and utilize **Cloudflare** for DNS and CDN.
 
 ## Maintenance and Content Management
-Since there are very few updates to the website, the content is managed using markdown files by the development team.
+
+Since there are very few updates to the website, the content is managed using Markdown files by the development team.
